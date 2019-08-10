@@ -1,0 +1,4 @@
+[2019-08-10 01:25:06] NULL.DEBUG: Aura\Cli_Kernel\CliKernel: command: help [] []
+[2019-08-10 01:25:06] NULL.DEBUG: Aura\Cli_Kernel\CliKernel: success: help [] []
+[2019-08-10 01:25:28] NULL.DEBUG: Aura\Cli_Kernel\CliKernel: command: help ["seed"] []
+[2019-08-10 01:25:28] NULL.DEBUG: Aura\Cli_Kernel\CliKernel: success: help [] []
